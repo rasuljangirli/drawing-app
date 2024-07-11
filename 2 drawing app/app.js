@@ -4,7 +4,7 @@ canvas.height = window.innerHeight;
 canvas.width = window.innerWidth;
 
 var theColor = '';
-// var theColor = '';
+//? var theColor = '';
 
 var linew = 5;
 let prevX = null;
